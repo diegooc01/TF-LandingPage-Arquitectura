@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+    <style>
+        body{
+            background-image: url("img/bg.png");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tienda deportiva Perú Sports</h1>
+    <div class="bar-sub">
+        <h2 class="subtitle">Quiénes somos</h2>
+        <p class="p-desc">Nuestra tienda tiene como objetivo impulsar la pasión por 
+            el deporte y se creó esta página para mostrarte todos los productos que 
+            necesitas, más allá de los artículos, nosotros quenemos ofrecerte una expeciencia única
+            para acompañarte en el deporte y que disfrutes al máximo
+        </p>
+        <div class="videos">
+            <iframe class="st-videos"
+             src="https://www.youtube.com/embed/0u08sHdjo24?autoplay=1&mute=1">
+            </iframe>
+            <iframe class="st-videos"
+            src="https://www.youtube.com/embed/AOFFTfT7vgM?autoplay=1&mute=1" >
+            </iframe>
+            <iframe class="st-videos"
+            src="https://www.youtube.com/embed/LkVL8YflN8M?autoplay=0&mute=0" >
+            </iframe>
+    
+        </div>
+    </div>
+
+    <div class="bar-sub">
+        <h2 class="subtitle">Tabla de clasificación CONMEBOL</h2>
+        <p class="p-desc">Sabemos que par ti es importante estrar informado sobre las 
+            posociones actual de las clacifiocaorias de la CONMEBOL, entonces quí te 
+            presentamos la tabla de clasificación para que estés al pendiente del 
+            puesto que ocupan los paises
+        </p>
+        <table class="table1">
+            <tr class="bar1">
+                <th >Posición</th>
+                <th >Equipo</th>
+                <th>PJ</th>
+                <th>Puntos</th>
+                <th>Dif. de gol</th>
+                <th>GF</th>
+                <th>GC</th>
+            </tr>
+            <tr>
+                <td class="st-color">1</td>
+                <td class="st-color">Agentina</td>
+                <td >4</td>
+                <td >12</td>
+                <td >7</td>
+                <td >7</td>
+                <td >0</td>
+            </tr>
+            <tr>
+                <td class="st-color">2</td>
+                <td class="st-color">Uruguay</td>
+                <td >4</td>
+                <td >7</td>
+                <td >3</td>
+                <td >8</td>
+                <td >5</td>
+                
+            </tr>
+            <tr>
+                <td class="st-color">3</td>
+                <td class="st-color">Brasil</td>
+                <td>4</td>
+                <td>7</td>
+                <td>3</td>
+                <td>7</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td class="st-color">4</td>
+                <td class="st-color">Venzuela</td>
+                <td >4</td>
+                <td >7</td>
+                <td >3</td>
+                <td >5</td>
+                <td >2</td>
+            </tr>
+            <tr>
+                <td class="st-color">5</td>
+                <td class="st-color">Colombia</td>
+                <td >4</td>
+                <td >6</td>
+                <td >1</td>
+                <td >3</td>
+                <td >2</td>
+            </tr>
+            <tr>
+                <td class="st-color">6</td>
+                <td class="st-color">Ecuador</td>
+                <td >4</td>
+                <td >4</td>
+                <td >1</td>
+                <td >4</td>
+                <td >3</td>
+            </tr>
+            <tr>
+                <td class="st-color">7</td>
+                <td class="st-color">Paraguay</td>
+                <td >4</td>
+                <td >4</td>
+                <td >-1</td>
+                <td >1</td>
+                <td >2</td>
+            </tr>
+            <tr>
+                <td class="st-color">8</td>
+                <td class="st-color">Chile</td>
+                <td >4</td>
+                <td >4</td>
+                <td >-3</td>
+                <td >3</td>
+                <td >6</td>
+            </tr>
+            <tr>
+                <td class="st-color">9</td>
+                <td class="st-color">Perú</td>
+                <td >4</td>
+                <td >1</td>
+                <td >-5</td>
+                <td >0</td>
+                <td >6</td>
+            </tr>
+            <tr>
+                <td class="st-color">10</td>
+                <td class="st-color">Bolivia</td>
+                <td >4</td>
+                <td >0</td>
+                <td >-9</td>
+                <td >2</td>
+                <td >11</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="bar-sub">
+        <h2 class="subtitle">Listados de productos de la tienda</h2>
+        <p class="p-desc">Nuestra tienda que ofrece los mejores precios de los
+            diversos preductos que 
+        </p>
+        <table class="table2">
+            <tr class="bar2">
+                <th >Nro. item</th>
+                <th >Descripción</th>
+                <th>Costo/Unidad</th>
+            <tr>
+                <td class="st-color1">1</td>
+                <td class="st-color1">Camiseta Color Blanco</td>
+                <td>60 Soles</td>
+            </tr>
+            <tr>
+                <td class="st-color1">2</td>
+                <td class="st-color1">Camiseta Color Negro</td>
+                <td>70 Soles</td>
+            </tr>
+            <tr>
+                <td class="st-color1">3</td>
+                <td class="st-color1">Camiseta Color Rojo</td>
+                <td>80 Soles</td>
+            </tr>
+            <tr>
+                <td class="st-color1">4</td>
+                <td class="st-color1">Zapatillas</td>
+                <td>250 Soles</td>
+            </tr>
+            <tr>
+                <td class="st-color1">5</td>
+                <td class="st-color1">Chimpunes</td>
+                <td>340 Soles</td>
+            </tr>
+            <tr>
+                <td class="st-color1">6</td>
+                <td class="st-color1">Medias</td>
+                <td>12 Soles</td>
+            </tr>
+        </table>
+    </div>
+
+    <footer class="footer">
+        <div class="conteiner">
+            <div class="pg-of">
+                <a href="https://www.conmebol.com">Sigue la pagina oficial de CONMEBOL</a>
+            </div>
+
+            <div class="social">
+                <h4>Sígue a FIFA-2026</h4>
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+            </div>
+
+        </div>
+
+    </footer>
+
+
+</body>
+</html>
